@@ -23,3 +23,4 @@ satisfy:
   deb: python-twisted
   rpm: python-twisted
   cmd: trial
+  port: py27-twisted
